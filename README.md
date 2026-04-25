@@ -1,14 +1,8 @@
 # Introduction
 
-This project analyzes a SaaS subscription dataset to evaluate business growth, customer retention, and profitability.  
-SaaS companies often face two core challenges: acquiring customers efficiently while minimizing churn. The goal of this analysis was to identify the key drivers of recurring revenue, detect churn risks, and assess whether customer acquisition efforts are generating sustainable returns.
+## 1. Business Problem
 
----
-
-# Business Problem
-
-Many SaaS businesses grow revenue through new customer acquisition, but long-term success depends on retaining customers and maximizing lifetime value. High churn, weak product engagement, or expensive acquisition costs can reduce profitability even when top-line revenue is increasing.
-
+* The SaaS company is growing revenue through new customer acquisition, but high churn is reducing long-term profitability and efficiency. The key challenge is understanding which customer segments, acquisition channels, and product behaviors are driving churn so the business can improve retention and achieve sustainable growth.
 ---
 # Objectives
 
