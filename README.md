@@ -3,17 +3,13 @@
 ## 1. Business Problem
 
 * The SaaS company is growing revenue through new customer acquisition, but high churn is reducing long-term profitability and efficiency. The key challenge is understanding which customer segments, acquisition channels, and product behaviors are driving churn so the business can improve retention and achieve sustainable growth.
----
-# Objectives
 
-* Analyze MRR growth and revenue trends.
-* Evaluate customer acquisition and churn patterns.
-* Identify unusual revenue spikes or dips.
-* Measure CLV, CAC, and CLV:CAC by plan.
-* Determine the most profitable customer segments.
-* Analyze feature usage, NPS, and churn relationships.
-* Flag customers at risk of churning.
-* Provide insights to improve growth and retention.
+## 2. Objectives
+
+* Is the business truly growing?
+* Why are customers churning?
+* Which segments are driving value vs risk?
+* What is the financial impact of churn?
 
 ---
 
@@ -26,6 +22,11 @@
 ---
 
 # Key Insights
+
+* Revenue shows consistent growth, indicating strong customer acquisition.
+* However, churn remains critically high (~52%), signaling retention issues.
+* Growth is driven by replacing lost customers, not retaining them.
+* Therefore, the business appears to be growing, but is might be unsustainable and operationally inefficient.
 
 ## 1. Churn Rate Analysis by Segments
 
