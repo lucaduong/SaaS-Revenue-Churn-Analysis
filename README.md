@@ -38,17 +38,17 @@ Many SaaS businesses grow revenue through new customer acquisition, but long-ter
 <img width="1245" height="812" alt="Screenshot 2026-04-25 at 5 29 49 PM" src="https://github.com/user-attachments/assets/4611a7f1-b50a-491e-9cd0-bdb761d11d50" />
 
 
-Overall churn was high, with 313 of 600 customers lost (52.2% churn rate), indicating retention is a major business challenge.
+* Overall churn was high, with 313 of 600 customers lost (**52.2% churn rate**).
 
 * **Starter plan** customers had the highest churn rate (**70.5%**), suggesting entry-level users may see lower long-term value or weaker product adoption. In contrast, **Enterprise customers** had the lowest churn (**22.0%**), showing stronger retention among higher-value accounts.
 
-* Customers on **monthly billing cycles** churned significantly more (**60.5%**) than **annual subscribers** (**40.3%**), indicating annual contracts improve retention and commitment.
+* Customers on **monthly subscription** churned significantly more (**60.5%**) than **annual subscribers** (**40.3%**), indicating annual contracts improve retention and commitment.
 
-* By acquisition channel, **Referral (61.3%)**, **Partner (58.0%)**, and **Social Media (55.8%)** customers showed the highest churn, suggesting some channels may bring lower-quality or less engaged users. **Direct Sales (39.3%)** had the lowest churn, indicating stronger-fit customers from sales-led acquisition.
+* By acquisition channel, **Referral (61.3%)**, **Partner (58.0%)**, and **Social Media (55.8%)** channels may bring lower-quality or less engaged users. **Direct Sales (39.3%)** had the lowest churn, indicating stronger-fit customers from sales-led acquisition.
 
 * Larger companies (**500+ employees**) had the highest churn (**63.2%**), while mid-sized firms (**51–200 employees**) had the lowest churn (**42.6%**). This may indicate enterprise servicing gaps or more complex needs in large organizations.
 
-* Churn reasons were heavily concentrated in **No Reason (287 cases)**, implying poor exit feedback collection. Among known reasons, **Budget Cuts**, **Price Too High**, and **Company Closed** were the most common drivers.
+* Churn reasons were heavily concentrated in **N/A** (287 cases)**, implying poor exit feedback collection. Among known reasons, **Budget Cuts**, **Price Too High**, and **Company Closed** were the most common drivers.
 
 ## Business Recommendations
 
