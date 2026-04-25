@@ -33,7 +33,7 @@ Many SaaS businesses grow revenue through new customer acquisition, but long-ter
 
 # Key Insights
 
-## Churn Rate Analysis by Segments
+## 1. Churn Rate Analysis by Segments
 
 <img width="1245" height="812" alt="Screenshot 2026-04-25 at 5 29 49 PM" src="https://github.com/user-attachments/assets/4611a7f1-b50a-491e-9cd0-bdb761d11d50" />
 
