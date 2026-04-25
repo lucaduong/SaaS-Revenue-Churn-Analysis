@@ -44,20 +44,19 @@ Many SaaS businesses grow revenue through new customer acquisition, but long-ter
 
 * Customers on **monthly subscription** churned significantly more (**60.5%**) than **annual subscribers** (**40.3%**), indicating annual contracts improve retention and commitment.
 
-* By acquisition channel, **Referral (61.3%)**, **Partner (58.0%)**, and **Social Media (55.8%)** channels may bring lower-quality or less engaged users. **Direct Sales (39.3%)** had the lowest churn, indicating stronger-fit customers from sales-led acquisition.
+* By acquisition source, Referral, Partner, and Social Media may bring lower-quality or less engaged users. Direct Sales had the lowest churn, indicating stronger-fit customers from sales-led acquisition.
 
-* Larger companies (**500+ employees**) had the highest churn (**63.2%**), while mid-sized firms (**51–200 employees**) had the lowest churn (**42.6%**). This may indicate enterprise servicing gaps or more complex needs in large organizations.
+* Larger companies had the highest churn (63.2%), while mid-sized firms had the lowest churn. This may indicate enterprise servicing gaps or more complex needs in large organizations.
 
-* Churn reasons were heavily concentrated in **N/A** (287 cases)**, implying poor exit feedback collection. Among known reasons, **Budget Cuts**, **Price Too High**, and **Company Closed** were the most common drivers.
+* Churn feedback quality is limited, with No Reason accounting for 287 cases. Among stated reasons, Budget Cuts, Price Too High, and Company Closed were the leading drivers.
 
 ## Business Recommendations
 
-* Improve onboarding and engagement for **Starter plan** users to reduce early churn.
-* Incentivize **annual billing plans** through discounts or added features.
-* Reassess marketing spend on higher-churn acquisition channels and prioritize stronger-performing channels.
+* Strengthen onboarding and product adoption for Starter plan customers.
+* Promote annual plans through pricing incentives or bundled value.
+* Reallocate spend toward lower-churn acquisition channels such as Direct Sales and optimize weaker channels.
 * Strengthen enterprise customer success support for larger accounts.
-* Implement mandatory exit surveys to better understand churn causes.
-
+* Introduce structured exit surveys to capture clearer churn drivers.
 
 
 
