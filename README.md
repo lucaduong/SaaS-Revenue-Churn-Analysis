@@ -38,11 +38,11 @@ Many SaaS businesses grow revenue through new customer acquisition, but long-ter
 <img width="1245" height="812" alt="Screenshot 2026-04-25 at 5 29 49 PM" src="https://github.com/user-attachments/assets/4611a7f1-b50a-491e-9cd0-bdb761d11d50" />
 
 
-* Overall churn was high, with 313 of 600 customers lost (**52.2% churn rate**).
+* Overall churn was high, with 313 of 600 customers lost (52.2%).
 
-* **Starter plan** customers had the highest churn rate (**70.5%**), suggesting entry-level users may see lower long-term value or weaker product adoption. In contrast, **Enterprise customers** had the lowest churn (**22.0%**), showing stronger retention among higher-value accounts.
+* Starter plan customers showed the highest churn (70.5%), while Enterprise customers had the lowest (22.0%). Lower-tier plans appear more price-sensitive or less engaged, whereas higher-tier customers retain more successfully.
 
-* Customers on **monthly subscription** churned significantly more (**60.5%**) than **annual subscribers** (**40.3%**), indicating annual contracts improve retention and commitment.
+* Monthly subscribers churned at 60.5%, versus 40.3% for annual customers, indicating longer contract terms significantly improve retention.
 
 * By acquisition source, Referral, Partner, and Social Media may bring lower-quality or less engaged users. Direct Sales had the lowest churn, indicating stronger-fit customers from sales-led acquisition.
 
