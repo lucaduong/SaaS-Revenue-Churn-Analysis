@@ -56,8 +56,19 @@
 
 ## 2. Why Did Customers Churn?
 
-* Churn feedback quality is limited, with No Reason accounting for 287 cases. Among stated reasons, Budget Cuts, Price Too High, and Company Closed were the leading drivers.
-* Introduce structured exit surveys to capture clearer churn drivers.
+<img width="844" height="550" alt="Screenshot 2026-04-26 at 9 11 16 AM" src="https://github.com/user-attachments/assets/fc118062-8a72-4efe-846b-aa3c2d8b2b68" />
+
+* Low product usage is the strongest churn driver.
+* Customer dissatisfaction also is a major driver.
+* Pricing & budget constraints are top churn reasons, indicating value perception issues.
+
+## Conclusion
+
+* This is not just a retention issue, it is a combination of:
+  * Poor onboarding
+  * Product usability friction
+  * Weak perceived value
+
 
 
 
