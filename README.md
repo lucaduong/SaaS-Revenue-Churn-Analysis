@@ -43,11 +43,11 @@
 
 * Larger companies had the highest churn, while mid-sized firms had the lowest churn. This may indicate enterprise servicing gaps or more complex needs in large organizations.
 
-## Conclusion
+### Conclusion
 
 * Churn is primarily driven by low-intent, low-commitment users entering the system.
 
-## Business Recommendations
+### Recommendations
 
 * Strengthen onboarding and product adoption for Starter plan customers.
 * Promote annual plans through pricing incentives or bundled value.
@@ -56,20 +56,23 @@
 
 ## 2. Why Did Customers Churn?
 
-<img width="844" height="550" alt="Screenshot 2026-04-26 at 9 11 16 AM" src="https://github.com/user-attachments/assets/fc118062-8a72-4efe-846b-aa3c2d8b2b68" />
-
+<img width="844" height="550" alt="Screenshot 2026-04-26 at 9 11 16 AM" src="https://github.com/user-attachments/assets/fc118062-8a72-4efe-846b-aa3c2d8b2b68" />  
 
 * Low product usage is the strongest churn driver.
 * Customer dissatisfaction also is a major driver.
 * Pricing & budget constraints are top churn reasons, indicating value perception issues.
 
-## Conclusion
+### Conclusion
 
 * This is not just a retention issue, it is a combination of:
   * Poor onboarding
   * Product usability friction
   * Weak perceived value
-
+ 
+### Recommendations
+* Improve onboarding and engagement for low-usage customers.
+* Target low-NPS customers with recovery and support actions.
+* Reassess pricing/value positioning.
 
 
 
