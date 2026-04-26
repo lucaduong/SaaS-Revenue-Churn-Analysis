@@ -56,7 +56,7 @@
 
 ## 2. Why Did Customers Churn?
 
-<img width="947" height="653" alt="Screenshot 2026-04-26 at 9 48 50 AM" src="https://github.com/user-attachments/assets/b67a2168-4f62-4474-a7f9-50f294437f2e" />
+<img width="947" height="653" alt="Screenshot 2026-04-26 at 9 48 50 AM" src="https://github.com/user-attachments/assets/b67a2168-4f62-4474-a7f9-50f294437f2e" />  
 
 
 * Low product usage is the strongest churn driver.
@@ -74,6 +74,10 @@
 * Improve onboarding and engagement for low-usage customers.
 * Target low-NPS customers with recovery and support actions.
 * Reassess pricing/value positioning.
+
+## 3. Revenue Trends & Unit Economics
+
+
 
 
 
