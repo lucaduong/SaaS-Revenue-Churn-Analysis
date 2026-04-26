@@ -83,7 +83,7 @@
 
 # Final Business Takeaway
 
-* This SaaS business shows strong acquisition and revenue growth—but:
+* This SaaS business shows strong acquisition and revenue growth but:
   * Retention is weak
   * Customer quality is inconsistent
   * Product adoption is the biggest bottleneck
