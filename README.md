@@ -28,22 +28,20 @@
 * Growth is driven by replacing lost customers, not retaining them.
 * Therefore, the business appears to be growing, but is might be unsustainable and operationally inefficient.
 
-## 1. Churn Rate Analysis by Segments
+## 1. Who Are Driving Churn?
 
-<img width="1245" height="812" alt="Screenshot 2026-04-25 at 5 29 49 PM" src="https://github.com/user-attachments/assets/4611a7f1-b50a-491e-9cd0-bdb761d11d50" />
+<img width="1142" height="652" alt="Screenshot 2026-04-26 at 8 42 03 AM" src="https://github.com/user-attachments/assets/cbf2f4dc-4d5f-48e8-81be-0bb8f7e8045b" />
 
 
-* Overall churn was high, with 313 of 600 customers lost (52.2%).
+* Overall churn was high, with 313 of 600 customers lost (52.17%).
 
 * Lower-tier plans appear more price-sensitive or less engaged, whereas higher-tier customers retain more successfully.
 
 * Longer contract terms significantly improve retention.
 
-* By acquisition source, Referral, Partner, and Social Media may bring lower-quality or less engaged users. Direct Sales had the lowest churn, indicating stronger-fit customers from sales-led acquisition.
+* Referral, Partner, and Social Media may bring lower-quality or less engaged users. Direct Sales had the lowest churn, indicating stronger-fit customers from sales-led acquisition.
 
 * Larger companies had the highest churn, while mid-sized firms had the lowest churn. This may indicate enterprise servicing gaps or more complex needs in large organizations.
-
-* Churn feedback quality is limited, with No Reason accounting for 287 cases. Among stated reasons, Budget Cuts, Price Too High, and Company Closed were the leading drivers.
 
 ## Conclusion
 
@@ -55,8 +53,11 @@
 * Promote annual plans through pricing incentives or bundled value.
 * Reallocate spend toward lower-churn acquisition channels such as Direct Sales and optimize weaker channels.
 * Strengthen enterprise customer success support for larger accounts.
-* Introduce structured exit surveys to capture clearer churn drivers.
 
+## 2. Why Did Customers Churn?
+
+* Churn feedback quality is limited, with No Reason accounting for 287 cases. Among stated reasons, Budget Cuts, Price Too High, and Company Closed were the leading drivers.
+* Introduce structured exit surveys to capture clearer churn drivers.
 
 
 
