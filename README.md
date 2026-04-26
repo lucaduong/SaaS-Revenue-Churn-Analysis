@@ -35,15 +35,19 @@
 
 * Overall churn was high, with 313 of 600 customers lost (52.2%).
 
-* Starter plan customers showed the highest churn (70.5%), while Enterprise customers had the lowest (22.0%). Lower-tier plans appear more price-sensitive or less engaged, whereas higher-tier customers retain more successfully.
+* Lower-tier plans appear more price-sensitive or less engaged, whereas higher-tier customers retain more successfully.
 
-* Monthly subscribers churned at 60.5%, versus 40.3% for annual customers, indicating longer contract terms significantly improve retention.
+* Longer contract terms significantly improve retention.
 
 * By acquisition source, Referral, Partner, and Social Media may bring lower-quality or less engaged users. Direct Sales had the lowest churn, indicating stronger-fit customers from sales-led acquisition.
 
-* Larger companies had the highest churn (63.2%), while mid-sized firms had the lowest churn. This may indicate enterprise servicing gaps or more complex needs in large organizations.
+* Larger companies had the highest churn, while mid-sized firms had the lowest churn. This may indicate enterprise servicing gaps or more complex needs in large organizations.
 
 * Churn feedback quality is limited, with No Reason accounting for 287 cases. Among stated reasons, Budget Cuts, Price Too High, and Company Closed were the leading drivers.
+
+## Conclusion
+
+* Churn is primarily driven by low-intent, low-commitment users entering the system.
 
 ## Business Recommendations
 
