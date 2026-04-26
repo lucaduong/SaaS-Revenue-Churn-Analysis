@@ -77,6 +77,18 @@
 
 ## 3. Revenue Trends & Unit Economics
 
+<img width="1047" height="756" alt="Screenshot 2026-04-26 at 2 41 29 PM" src="https://github.com/user-attachments/assets/1b770f67-c7f8-45af-ba5b-e6e37566a725" />  
+
+* Revenue is growing, but growth appears heavily dependent on high-value Enterprise customers. This creates concentration risk if a small number of large accounts churn.
+* Starter plans data suggests limited profitability after acquisition costs.
+* Growth depends on customer mix. Scaling premium segments or fixing low-tier inefficiencies is critical
+
+### Conclusion
+
+* The business is profitable at the top—but leaking money at the bottom.
+
+
+
 
 
 
