@@ -87,7 +87,7 @@
 
 * The business is profitable at the top, but leaking money at the bottom.
 
-
+## 4. Predicting Churn & Revenue Impact
 
 
 
