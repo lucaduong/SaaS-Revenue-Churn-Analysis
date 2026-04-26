@@ -47,13 +47,6 @@
 
 * Churn is primarily driven by low-intent, low-commitment users entering the system.
 
-### Recommendations
-
-* Strengthen onboarding and product adoption for Starter plan customers.
-* Promote annual plans through pricing incentives or bundled value.
-* Reallocate spend toward lower-churn acquisition channels such as Direct Sales and optimize weaker channels.
-* Strengthen enterprise customer success support for larger accounts.
-
 ## 2. Why Did Customers Churn?
 
 <img width="947" height="653" alt="Screenshot 2026-04-26 at 9 48 50 AM" src="https://github.com/user-attachments/assets/b67a2168-4f62-4474-a7f9-50f294437f2e" />  
@@ -69,11 +62,6 @@
   * Poor onboarding
   * Product usability friction
   * Weak perceived value
- 
-### Recommendations
-* Improve onboarding and engagement for low-usage customers.
-* Target low-NPS customers with recovery and support actions.
-* Reassess pricing/value positioning.
 
 ## 3. Revenue Trends & Unit Economics
 
@@ -89,8 +77,23 @@
 
 ## 4. Predicting Churn & Revenue Impact
 
+* Churn risk is high, indicating engagement issues.
 
+---
 
+# Final Business Takeaway
+
+* This SaaS business shows strong acquisition and revenue growth—but:
+ * Retention is weak
+ * Customer quality is inconsistent
+ * Product adoption is the biggest bottleneck
+
+# Business Recommendations
+* Strengthen onboarding, product adoption and engagement for new customers.
+* Reallocate spend toward lower-churn acquisition channels such as Direct Sales and optimize weaker channels.
+* Promote annual plans through pricing incentives or bundled value.
+* Reassess pricing/value positioning.
+* Target low-NPS customers with recovery and support actions.
 
 
 
