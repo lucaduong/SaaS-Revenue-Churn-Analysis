@@ -53,7 +53,7 @@
 
 ## 2. Why Did Customers Churn?
 
-<img width="947" height="653" alt="Screenshot 2026-04-26 at 9 48 50 AM" src="https://github.com/user-attachments/assets/b67a2168-4f62-4474-a7f9-50f294437f2e" />  
+<img width="947" height="653" alt="Screenshot 2026-04-26 at 9 48 50 AM" src="https://github.com/user-attachments/assets/b67a2168-4f62-4474-a7f9-50f294437f2e" />   
 
 
 * Low product usage is the strongest churn driver.
@@ -81,7 +81,9 @@
 
 ## 4. Predicting Churn & Revenue Impact
 
-* Churn risk is high, indicating engagement issues.
+* Churn risk is high, indicating widespread engagement issues.
+* Starter plan is the largest risk cluster → Highest at-risk users → Highest churn counts
+* Low & medium usage users dominate the risk pool → Engagement is the strongest early warning signal
 
 ---
 
