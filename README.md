@@ -1,4 +1,4 @@
-# Introduction
+# I. Introduction
 
 ## 1. Business Problem
 
@@ -11,9 +11,7 @@
 * Which segments are driving value vs risk?
 * What is the financial impact of churn?
 
----
-
-# Tools Used
+## 3. Tools Used
 
 - Excel
 - SQL 
@@ -21,7 +19,7 @@
 
 ---
 
-# Key Insights
+# II. Key Insights
 
 * Revenue shows consistent growth, indicating strong customer acquisition.
 * However, churn remains critically high (~52%), signaling retention issues.
