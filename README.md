@@ -1,6 +1,12 @@
+# SaaS Revenue & Churn Analysis
+
+<img width="902" height="528" alt="image" src="https://github.com/user-attachments/assets/e6eeb33b-efbe-44f9-a1aa-86d91de7ea4b" />
+
 # I. Introduction
 
 ## 1. Business Problem
+
+* CloudTask Pro is a SaaS company that has grown from 0 to 600 customers since 2022. While revenue has been growing, the board has raised concerns about a high churn rate. The CFO wants to understand the monthly churn trends, which customer segments are most at risk, and what the company’s unit economics look like (MRR per customer, customer acquisition cost vs. lifetime value). 
 
 * The SaaS company is growing revenue through new customer acquisition, but high churn is reducing long-term profitability and efficiency. The key challenge is understanding which customer segments, acquisition channels, and product behaviors are driving churn so the business can improve retention and achieve sustainable growth.
 
@@ -31,7 +37,7 @@
 <img width="1142" height="652" alt="Screenshot 2026-04-26 at 8 42 03 AM" src="https://github.com/user-attachments/assets/cbf2f4dc-4d5f-48e8-81be-0bb8f7e8045b" />
 
 
-* Overall churn was high, with 313 of 600 customers lost (52.17%).
+* Overall churn was high, with 313 of 600 customers lost (52.17%). This means CloudTask Pro is working twice as hard to stay in the same spot, since for every new customer it acquires, it loses an existing one.
 
 * Lower-tier plans appear more price-sensitive or less engaged, whereas higher-tier customers retain more successfully.
 
