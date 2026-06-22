@@ -12,12 +12,15 @@
 
 ## 2. Objectives
 
-* Is the business truly growing?
-* Why are customers churning?
-* Which segments are driving value vs risk?
-* What is the financial impact of churn?
+* What is the overall churn rate, and how has the monthly churn rate trended over the past 4 years? Is churn improving or getting worse?
 
-## 3. Tools Used
+* Which subscription plan (Starter, Professional, Business, Enterprise) has the highest churn rate? Does billing cycle (monthly vs. annual) significantly impact retention?
+
+* What are the top 3 reasons customers churn, and do these reasons differ by plan type or company size?
+
+* Calculate the average Customer Lifetime Value (CLV) by plan. Compare this to the Customer Acquisition Cost (CAC). Which plans are the most and least profitable?
+
+## 3. Tech Stack
 
 - Excel
 - SQL 
@@ -89,6 +92,7 @@
 
 # III. Final Business Takeaway
 
+* CloudTask Pro is spending a lot of money to acquire new customers 𝗷𝘂𝘀𝘁 𝘁𝗼 𝗿𝗲𝗽𝗹𝗮𝗰𝗲 𝘁𝗵𝗲 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗶𝘁'𝘀 𝗹𝗼𝘀𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗲𝘅𝗶𝘀𝘁𝗶𝗻𝗴 𝗼𝗻𝗲𝘀. This is an expensive way to grow.
 * This SaaS business shows strong acquisition and revenue growth but:
   * Retention is weak
   * Customer quality is inconsistent
