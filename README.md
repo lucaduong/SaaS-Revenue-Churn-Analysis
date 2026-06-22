@@ -87,14 +87,15 @@
 
 ---
 
-# Final Business Takeaway
+# III. Final Business Takeaway
 
 * This SaaS business shows strong acquisition and revenue growth but:
   * Retention is weak
   * Customer quality is inconsistent
   * Product adoption is the biggest bottleneck
 
-# Business Recommendations
+# IV. Business Recommendations
+
 * Strengthen onboarding, product adoption and engagement for new customers.
 * Reallocate spend toward lower-churn acquisition channels such as Direct Sales and optimize weaker channels.
 * Promote annual plans through pricing incentives or bundled value.
